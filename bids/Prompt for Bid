@@ -1,0 +1,40 @@
+<Job Description>
+
+</Job Description>
+
+<Required Skills>
+
+</Required Skills>
+
+I need your help in writing a cover letter, and you need to complete the following requirement.
+
+<Requirement>
+1. Analyze the job description.
+2. Find the solutions.
+3. Write a cover letter.
+ - Each cover letter should be 4 sentences.
+ - The cover letter should follow the style below.
+ - The cover letter should include some technical questions related to the job description or project requirement.
+</Requirement>
+
+Make the cover letter like the follow style.
+<Style>
+Hello,
+
+First of all, please check some of my past projects.
+ // Please add the website URLs manually.
+
+...Assume that you are a full stack developer and describe your experience with the required skills...
+
+...Describe how to solve the issue using high-tech solutions...
+
+I have some technical questions:
+...Ask some technical questions related to the job description or project requirement...
+
+I am ready to start working on your project right now.
+Looking forward to collaborating.
+
+Best Regards,
+Oleksandr
+</Style>
+

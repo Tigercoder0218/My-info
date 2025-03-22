@@ -1,0 +1,19 @@
+Hello,
+
+First of all, please check some of my past projects.
+https://quickrcare.com/
+https://www.bridl.co/
+
+As a full-stack developer specializing in Spring Boot and Angular, I have extensive experience in building secure authentication systems and integrating backend APIs with responsive frontends. For this project, I will implement JWT-based authentication in Spring Boot to ensure secure login validation and create a clean Angular-based UI for seamless product listing. The data will be fetched from the backend REST API, ensuring a smooth and efficient user experience.
+
+To deliver the best solution, I will use Angular Material for an intuitive UI, implement Spring Security for authentication, and optimize the API for fast response times. The role-based access system will be enforced at the backend, ensuring that only admins can access the product listings.
+
+I have some technical questions:
+
+Will the product listing require pagination or filtering options?
+Should the login session persist using cookies/local storage, or is a token-based approach preferred?
+Are there specific design requirements for the UI, or should I use a predefined Angular Material template?
+I'm able to provide unlimited revisions until you are satisfied with achieving the desired result.
+
+Best Regards,
+Oleksandr

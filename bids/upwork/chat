@@ -1,0 +1,162 @@
+list
+Akinyemi Koyi 4:54 AM
+Hi there, thank for applying for this project. Do you have other projects you are currently working on at the moment? How many hours a week can you dedicate to this project?
+Do you have an example of a recent React JS application you have worked on and deployed to production?
+
+Pavlo Honcharuk 4:58 AM
+Hi Akinyemi, thanks for your reply.
+I don't have any ongoing project at the moment. I'm available to work at least 40 hours per a week for the next 6 months.
+AK
+
+Akinyemi Koyi 4:59 AM
+Do you have an example of a recent React JS application you have worked on and deployed to production?
+
+Pavlo Honcharuk 5:04 AM
+This is React demo project, which is luxury brand that designs bitcoin rings. I deployed to Vercel.
+https://millysat.vercel.app/
+MillySat - Luxury Bitcoin Rings
+Premium rings with embedded Bitcoin security. Secure your Bitcoin in style with our exclusive collection of luxury hardware wallet rings.
+AK
+
+Akinyemi Koyi 5:05 AM
+Thank you
+
+Pavlo Honcharuk 5:06 AM
+https://milly-sat-ui.vercel.app/
+Milly Sat
+Milly Sat
+I shared my last project with you. If you want to see more of my past React projects, please let me know.
+AK
+
+Akinyemi Koyi 6:00 AM
+Do you have any question for me on the project?
+Pavlo Honcharuk 6:14 AM
+Should the mock APIs follow a specific structure or standard (e.g., JSON:API, GraphQL, or RESTful)?
+I would like to follow RESTful principles for simplicity and wide compatibility unless GraphQL is preferred for more flexible data fetching. I have the ability to structure the mock API using tools like JSON Server or MirageJS, ensuring a well-organized, scalable approach.
+What state management approach is preferred—React Context, Redux, Zustand, or another solution? Is this particular project small or medium-sized one?
+If so, I would like to use React Context with useReducer. If large application, I would like to recommend Redux Toolkit.
+I'll ask more questions after I learn more about your project.
+AK
+
+Akinyemi Koyi 6:38 AM
+The web application uses WebAPI with JSON payload - it will be important to mimic that for mocking
+The API is RESTful - so well aligned
+Once we start and you review the existing project, you can decide on the best approach - This is going to be a very large platform
+
+Pavlo Honcharuk 7:08 AM
+Thank you for the clarification. If the project uses a RESTful API with JSON payload, I can mimicke the API structure using mock data tools like JSON Server or other.
+I'm ready to start right away and I'm available to work 40 hours a week for the next 6-12 months.
+AK
+
+Akinyemi Koyi 7:44 AM
+I see this project in phases, the current phase we are in will run for a few weeks, to get the Figma files into functioning React JS. Once we are done with phases, there is likely going to be new Figma files for some new advance concepts, then we will proceed with that. We have a roadmap that is very long but first we need to deliver on Min Viable Product
+
+Pavlo Honcharuk 11:18 AM
+That makes sense.
+Exciting! When would you like me to start working on the implementation?
+
+Pavlo Honcharuk 5:40 PM
+Good morning!
+AK
+
+Akinyemi Koyi 6:03 PM
+Good morning Pavlo
+Pavlo Honcharuk 6:04 PM
+How are you doing?
+AK
+
+Akinyemi Koyi 6:13 PM
+I see your proposal is at $30/hr, it that your best rate? I would like to work with you long term but need to get the rates right
+
+Pavlo Honcharuk 6:23 PM
+yeah, my proposal is $30/hr. I'm open to discussing a long-term contract. What kind of budget are you considering?
+AK
+
+Akinyemi Koyi 6:29 PM
+My preference is $20/hr if hourly (this is going to be a long term engagement if all works out - which I think it will) and I am also opened to doing a fixed term based - with payments on milestones.
+
+Pavlo Honcharuk 6:32 PM
+I appreciate your offer and your interest in a long-term contract. My standard rate is $30/hr, but for a long-term contract, I can offer $25/hr. This ensures I can dedicate my time and expertise to delivering high-quality work consistently. Let me know if that works for you!
+
+Pavlo Honcharuk 8:13 PM
+What do you think?
+I'm excited to join your team and collaborate with you.
+AK
+
+Akinyemi Koyi 8:34 PM
+Same, I am very excited to getting this going soon. The previous development team was from Ukraine too.
+Pavlo Honcharuk 8:51 PM
+Ok, sounds good.
+Wednesday, Mar 05
+AK
+
+Akinyemi Koyi 5:43 AM
+I’m sharing the Figma export file for your review. Please note that we will be focusing on page 175 and onwards for this phase of the work. Feel free to review and let me know if you have any questions.
+Before proceeding, I want to emphasize that all intellectual property (IP) rights related to this project, including the designs, concepts, and any work derived from them, remain solely with Datacord LLC. This file is being shared strictly for the purpose of evaluation and potential collaboration. Any unauthorized use, reproduction, or distribution is strictly prohibited.
+Please confirm once you’ve received the file and had a chance to review it. Looking forward to your feedback
+DataCord iPaaS Platform.pdf 
+DataCord iPaaS Platform.pdf
+197 MB
+
+Pavlo Honcharuk 6:01 PM
+Thank you for your chance.
+I reviewed the project requirement document, and it looks excellent.
+It’s clean, modern, and highly user-friendly, particularly for business professionals.
+The structure is well-organized, and the list display section stands out as intuitive and easy to navigate.
+For page 179, I recommend refining the advanced section’s UI/UX to enhance usability.
+Implementing Tailwind CSS would be a great choice for this project, as it provides better design flexibility, improved maintainability, and optimized performance compared to Bootstrap.
+Of course, if you prefer to keep the original design, I’ll implement it accordingly.
+There shouldn’t be any major challenges in converting this to React, but to ensure a well-structured and high-quality implementation, I’d appreciate access to it if you have the backend API documentation.
+This will help me align the UI efficiently with the data structure and business logic.
+What about your opinion?
+Thursday, Mar 06
+
+Pavlo Honcharuk 3:03 PM
+Good morning
+AK
+
+Akinyemi Koyi 4:06 PM
+Good evening
+I need an estimate
+Based on figma file, how long is it going to take?
+Friday, Mar 07
+AK
+
+Akinyemi Koyi 5:30 AM
+Good morning Pavlo
+
+Pavlo Honcharuk 5:40 AM
+hi
+Time.pdf 
+Time.pdf
+15 kB
+Please check my plan.
+
+Pavlo Honcharuk 6:26 AM
+And tell me about your opinion.
+I'm extremely interested in your project and I would like to work with you in long term.
+AK
+
+Akinyemi Koyi 7:55 AM
+Thanks for this, do you have this file in excel or google sheet format so I can add notes to it
+
+Pavlo Honcharuk 8:04 AM
+Thank you. It's Excel file so add notes please.
+estimate.xlsx 
+estimate.xlsx
+12 kB
+AK
+
+Akinyemi Koyi 9:37 AM
+I have uploaded it to google sheet - https://docs.google.com/spreadsheets/d/1Tb9d38PjFSaDPr-cfWi2XJRRjxaaptljZNgTLefFThE/edit?usp=sharing
+I added columns for comments and priority
+please review. am heading to bed now. will check back in the morning
+Pavlo Honcharuk 12:18 PM
+Ok
+
+Pavlo Honcharuk 4:37 PM
+I reviewed the google sheet. Everything is okay for now.
+When will you send an offer?
+
+Pavlo Honcharuk 6:28 PM
+I'm really excited to start right away and build a successful project together.
